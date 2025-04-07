@@ -42,4 +42,4 @@ A car service scheduling website hosted from a 2010 Mac Mini running Ubuntu Serv
 
 ### Author
 
-Kevin (a.k.a. SLTSrr) — construction estimator by day, car whisperer by night.
+KevinS (a.k.a. LTSrr) — construction estimator by day, car whisperer by night.
